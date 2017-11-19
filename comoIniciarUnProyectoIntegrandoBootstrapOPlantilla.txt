@@ -1,0 +1,58 @@
+
+
+Creacion de proyecto Laravel
+
+1.- Crear el proyecto
+  - Iniciar laragon
+  - Iniciar la consola de laragon y posicionar el puntero en la carpeta www de laragon
+  - Ingresar el comando ( composer create-project --prefer-dist laravel/laravel nombreProyecto )
+  - Ingresar por comando con el puntero dentro de la carpeta que contiene el proyecto : php artisan key:generate
+  - luego por consola ingresar comando npm instal
+  - Por consola agregar comando  : php artisan serve , ingresar a la  direccion señalada por composer.
+
+  Si sale laravel . Listo!
+
+2.- Integrar bootsTrap
+
+  - bajar desde bootstrap el archivo compled css and js
+  - Descomprimir los archivos en la carpeta public y reemplazar las carpetas existentes js y css
+
+  - en el head de la pagina html o php pegar
+
+    <link rel="stylesheet" type="text/css" href="{{url('css/bootstrap.min.css')}}">
+    <script type="text/javascript" src="{{url('js/jquery-3.2.1.min.js')}}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+   -Entrar a la pagina de jquery y descargar el archivo . Este debes pegarlo en la carpeta public/js
+
+   - Entrar al enlace https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js . control + s y guardarlo en public/js
+   
+   - Al final del bodi agregar las lineas
+
+    <script type="text/javascript" src="{{url('js/popper.min.js')}}"></script>
+    <script type="text/javascript" src="{{url('js/bootstrap.min.js')}}"></script>
+
+    Listo bootsTrap en la APP.
+
+3.- Para integrar plantilla
+    
+    - Para agregar una plantilla . Todos los archivos css deben ir en public css y los archivos js en la carpeta public /js
+    - MOdificar la ruta de todos los archivos css y js que requiera la plantilla de esta manera
+
+    EJ:
+
+    <link href="{{url('font-awesome/css/font-awesome.min.css')}}" rel="stylesheet">
+
+    <link href="{{url('devicons/css/devicons.min.css')}}" rel="stylesheet">
+
+    <link href="{{url('simple-line-icons/css/simple-line-icons.css')}}" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/resume.min.css" rel="stylesheet">
+     
+    - Siguiendo todos los pasos del punto 2.-
+
+
+
+
