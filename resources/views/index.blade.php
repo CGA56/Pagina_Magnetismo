@@ -27,6 +27,9 @@
 
     <link href="{{url('simple-line-icons/css/simple-line-icons.css')}}" rel="stylesheet">
 
+
+
+
     <!-- Custom styles for this template -->
     <link href="css/resume.min.css" rel="stylesheet">
 
@@ -75,32 +78,45 @@
           <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/logo.jpg" alt="">
     </span-->
 
-    
-     
-    
-    <!--img  src="img/GIRASOLES%20Y%20ARCOIRIS.jpg"   width="998px" height="10px" -->
-
-     
-    <!--div class="d-flex p-2" > <img  src="img/GIRASOLES%20Y%20ARCOIRIS.jpg" width="999px"></div-->
-
-     <div class="jumbotron" > <img  src="img/GIRASOLES%20Y%20ARCOIRIS.jpg" width="950px" height="300px"></div> 
-
+  <!--Region imaguen principal-->
     <div class="container-fluid">
       <div class="row">
-        <div class="col">    
-         <img  src="img/profile.jpg" class="img-responsive">
+        <div class="col">
+         <img  src="img/GIRASOLES%20Y%20ARCOIRIS.jpg" class="img-responsive"  width="950px" height="300px" >
         </div>
         <div class="col-5">
-          
         </div>
         <div class="col">
         </div>
       </div>
     </div>
+    <!--ENDREGION-->
+    <br>
+    <br>
 
 
-     
+Para la primera entrega me interesa.
+
+- La imaguen ( ya esta para presentar si weveo se cambian los tamaños
+)
+- Imaguen solucionado
+- LOs divs ( color verde agua o algo asi)
+- Cambiar el color de navegador(nav bar)
+
+
+<!--Aqui puedes trabjar sin dejar la caga-->
+    <div class="container-fluid">
+      <div class="bg-success text-white">
+      <p  class="pnelTexro">sin cursive</p>
+      <p><font color="red" size=12 > sin cursive</font></p>
+
+      </div>
+    </div>
+
+<!------------------------------------------------------------------>
+
     <div class="container-fluid p-0">
+
 
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
@@ -148,7 +164,7 @@
                 </span>
               </a>
             </li>
-           
+
           </ul>
           <!--ENDREGION-->
         </div>
@@ -354,7 +370,7 @@
      <script type="text/javascript" src="{{url('js/popper.min.js')}}"></script>
   <script type="text/javascript" src="{{url('js/bootstrap.min.js')}}"></script>
 
-  
+
 
   </body>
 
