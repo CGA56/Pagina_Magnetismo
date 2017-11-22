@@ -78,7 +78,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col">
-         <img  src="img/GIRASOLES%20Y%20ARCOIRIS.jpg" class="img-responsive"  width="950px" height="300px" >
+         <img src="img/GIRASOLES%20Y%20ARCOIRIS.jpg" class="img-responsive"  width="950px" height="300px" >
         </div>
         <div class="col-5">
         </div>
@@ -109,11 +109,11 @@
                                           -->
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
-          <h1 class="mb-0">Cristopher
-            <span class="text-primary">González</span>
+          <h1 class="mb-0">Bendición
+            <span class="text-primary">Biomagnética</span>
           </h1>
-          <div class="subheading mb-5">Ramon Cruz 2336 · Macul · Santiago · (+569) 9126-2636 ·
-            <a href="mailto:name@email.com">cristo.gonzale@alumnos.duoc.cl</a>
+          <div class="subheading mb-5">Huérfanos 1117 · Oficina 1018 · Santiago · (+569) 2-26880810 ·
+            <a href="mailto:name@email.com">roxanabarre@gmail.cl</a>
           </div>
           <div class="container-fluid " >
                 <div class="bg-success-copia text-white " style="border-radius: 20px;">
