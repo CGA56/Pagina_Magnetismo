@@ -27,7 +27,7 @@
 
     <link href="{{url('simple-line-icons/css/simple-line-icons.css')}}" rel="stylesheet">
 
-
+  <link rel="stylesheet" type="text/css" href="{{url('css/stiloDiv.css')}}">
 
 
     <!-- Custom styles for this template -->
@@ -50,7 +50,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">Presentacion</a>
+            <a class="nav-link js-scroll-trigger" href="#about">Mision</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#experience">Experiencia</a>
@@ -72,11 +72,7 @@
     </nav>
     <!--ENDREGION-->
 
-    <!--Region Presentacion-->
 
-    <!--span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/logo.jpg" alt="">
-    </span-->
 
   <!--Region imaguen principal-->
     <div class="container-fluid">
@@ -95,7 +91,7 @@
     <br>
 
 
-Para la primera entrega me interesa.
+<!--Para la primera entrega me interesa.
 
 - La imaguen ( ya esta para presentar si weveo se cambian los tamaños
 )
@@ -103,21 +99,14 @@ Para la primera entrega me interesa.
 - LOs divs ( color verde agua o algo asi)
 - Cambiar el color de navegador(nav bar)
 
-
 <!--Aqui puedes trabjar sin dejar la caga-->
-    <div class="container-fluid">
-      <div class="bg-success text-white">
-      <p  class="pnelTexro">sin cursive</p>
-      <p><font color="red" size=12 > sin cursive</font></p>
-
-      </div>
-    </div>
 
 <!------------------------------------------------------------------>
 
-    <div class="container-fluid p-0">
 
 
+<!--                  Fin container
+                                          -->
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
           <h1 class="mb-0">Cristopher
@@ -126,11 +115,40 @@ Para la primera entrega me interesa.
           <div class="subheading mb-5">Ramon Cruz 2336 · Macul · Santiago · (+569) 9126-2636 ·
             <a href="mailto:name@email.com">cristo.gonzale@alumnos.duoc.cl</a>
           </div>
-          <p class="mb-5">
-          Cuento experiencia en trabajar a cargo de personas . Creo que es importante
-          el trabajo en equipo , proporciona cimientos  solidos dentro de un departamento. Como estrategia corporativa fomenta el pensamiento colaborativo para promover una propuesta de valor integral.
-          </p>
-          <!--Region Iconos-->
+          <div class="container-fluid " >
+                <div class="bg-success-copia text-white " style="border-radius: 20px;">
+                <div style="margin: 10px;">
+                  <br>
+            <!--Seccion Mision--->
+              <h2 class="centrar-texto"><small>Mision</small></h2>
+              Sociedad de Expansión de Bendición Biomagnética S.P.A., surgió con el objetivo de difundir y expandir la terapia de  Biomagnétismo Medico.
+
+Cuando supe que el Doctor Isaac Goiz Durán, descubridor del Biomagnétismo Médico, vino a Chile en el año 2003, a impartir el primer curso de Biomagnétismo Medico,  Y que pese a que habían transcurrido 14 años, sólo un porcentaje mínimo de chilenos sabía Lo que era el Biomagnétismo, o había recibido esta terapia, me pregunté: ¿Cómo era posible que siendo esta terapia tan maravillosa, tan poca gente la conociera?,¿Cómo era posible que tanta gente la asociara a un masaje, cuando yo en carne propia había comprobado su efectividad?,¿Cómo era posible que en México, estuviera reconocida por el Ministerio de Salud y Educación y en chile nada?.¿Cómo era posible que varios Médicos de la distinción Del doctor Raymond Hilu, de España, hubieran realizado comprobación científica del Biomagnétismo y en Chile, gran parte de los profesionales de la salud no le reconocieran Ninguna importancia?. Sin duda tenía que hacer algo al respecto.
+
+	Por lo mismo, y luego de sentir un llamado de Dios, evalué que  por mí misma, sólo sería capaz de realizar más o menos unas 1.500 terapias al año, lo cual, si bien haría un cambio radical en aquellas personas que se hubieran sanado, en términos estadísticos, no estaría cumpliendo el objetivo o misión que Dios me dio, es decir, que muchas más personas conocieran y probaran esta terapia, que me ha demostrado, ser una vía de curación increíble, pero cierta, cuya efectividad he ido comprobando a cada momento, con los pacientes que he atendido.
+
+	Me convencí de que la única forma de que más personas conocieran y probaran la terapia, era realizándola en la misma oficina que ocupé para mi estudio jurídico, la cual transformé para estos efectos, pues por su ubicación privilegiada en el centro mismo de Santiago, a una cuadra de Plaza de Armas, permitiría un rápido y fácil acceso.
+
+	De la misma forma, y gracias a Dios, en los 18 años que ejercí como abogada y a la especialización que adquirí con el Magister en Derechos de los Negocios, y mi experiencia en materia de Quiebras y Liquidaciones, logré crear un sello de confianza, seriedad y responsabilidad, que precisamente avalarían y motivarían a que más personas, sobre todo ex clientes y profesionales de área, se animaran a probar la terapia, ya que ellos sabían muy bien que no soy una charlatana, y que si hoy día estoy en esto, es por que funciona.
+
+	De igual manera, la meta de esta empresa, es poder a lo largo de cinco años, ayudar, motivar y eventualmente financiar, a que 100 o más personas, con las aptitudes necesarias, estudien esta terapia con su creador, el Doctor Isaac Goiz Durán, y que puedan hacer su práctica con esta empresa, seguir trabajando en la misma, o seguir en forma independiente, pero en cualquiera de estos casos, las terapias que yo hubiera podido realizar al año, se duplicarían cada vez que pudiéramos encaminar a un nuevo Biomagnetista y, lógicamente, más personas recibirían esta Bendición Biomagnética.
+	En resumen, si logramos ayudar a formar a 100 Biomagnetistas al termino de estos 5 años, entre todos, estaremos realizando alrededor de 150.000 terapias al año y eso, son  duda generará un cambio en las estadísticas.
+
+	Esta empresa, está inspirada en las enseñanzas de Jesucristo, sobre todo en el amor al prójimo, la compasión, la verdad y la vida, pues creemos que la enfermedad no es algo natural, con lo que haya  que conformarse o resignarse, sino que precisamente, es un estado de desequilibrio, que nos refleja, el mal que se ha sembrado en el mundo y que precisamente por eso Dios, inspiró al Doctor Isaac Goiz Durán, para descubrir esta técnica y así poder curar estos males.
+
+	Sé bien que la meta es muy alta y a veces parece imposible, pero creo fervientemente que para Dios, nada es imposible, y si es a su voluntad, los caminos se nos irán abriendo.
+
+Roxana Barrera Acuña
+              <br>
+              <br>
+             <cite>Roxana Barrera Acuña</cite>
+             <br>
+            </div>
+          </div>
+          </div>
+          <!--Fin seccion mision-->
+
+          <!--Region Iconos
           <ul class="list-inline list-social-icons mb-0">
             <li class="list-inline-item">
               <a href="https://www.facebook.com/christopherandrew.gonzales">
@@ -164,7 +182,6 @@ Para la primera entrega me interesa.
                 </span>
               </a>
             </li>
-
           </ul>
           <!--ENDREGION-->
         </div>
