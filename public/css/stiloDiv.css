@@ -1,0 +1,18 @@
+.product_thumb {
+  border-radius: 60px 52px 52px 52px;
+-moz-border-radius: 60px 52px 52px 52px;
+-webkit-border-radius: 60px 52px 52px 52px;
+border: 1px solid #000000;
+padding: 1px;
+color:white;
+background-color: red;
+text-align: center;
+}
+
+.bg-success-copia {
+    background-color: #17a2b8!important;
+}
+
+.centrar-texto{
+  text-align: center;
+}
