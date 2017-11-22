@@ -50,7 +50,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">Mision</a>
+            <a class="nav-link js-scroll-trigger" href="#mision">Perro</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#experience">Experiencia</a>
@@ -107,7 +107,7 @@
 
 <!--                  Fin container
                                           -->
-      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="mision">
         <div class="my-auto">
           <h1 class="mb-0">Bendición
             <span class="text-primary">Biomagnética</span>
