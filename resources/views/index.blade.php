@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Cristopher Gonzalez A</title>
+    <title>Sociedad de expansion de Bendición Biomagnética S.P.A.</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" type="text/css" href="{{url('css/bootstrap.min.css')}}">
