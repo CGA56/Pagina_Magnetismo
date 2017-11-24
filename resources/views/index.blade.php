@@ -36,6 +36,7 @@
   </head>
 
   <body id="page-top">
+
    <!--Region navegador-->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
@@ -50,16 +51,16 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#mision">Perro</a>
+            <a class="nav-link js-scroll-trigger" href="#mision">Mision</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#experience">Experiencia</a>
+            <a class="nav-link js-scroll-trigger" href="#historia">Historia</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#education">Educacion</a>
+            <a class="nav-link js-scroll-trigger" href="#financiamiento">Financiamiento</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+            <a class="nav-link js-scroll-trigger" href="#links">Links de interes</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#interests">Intereses</a>
@@ -74,39 +75,9 @@
 
 
 
-  <!--Region imaguen principal-->
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col">
-         <img src="img/GIRASOLES%20Y%20ARCOIRIS.jpg" class="img-responsive"  width="950px" height="300px" >
-        </div>
-        <div class="col-5">
-        </div>
-        <div class="col">
-        </div>
+      <div class="container">
+         <img src="img/GIRASOLES%20Y%20ARCOIRIS.jpg" class="img-responsive"  width="950px" height="300px"  style="border-radius:20px;">
       </div>
-    </div>
-    <!--ENDREGION-->
-    <br>
-    <br>
-
-
-<!--Para la primera entrega me interesa.
-
-- La imaguen ( ya esta para presentar si weveo se cambian los tamaños
-)
-- Imaguen solucionado
-- LOs divs ( color verde agua o algo asi)
-- Cambiar el color de navegador(nav bar)
-
-<!--Aqui puedes trabjar sin dejar la caga-->
-
-<!------------------------------------------------------------------>
-
-
-
-<!--                  Fin container
-                                          -->
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="mision">
         <div class="my-auto">
           <h1 class="mb-0">Bendición
@@ -121,6 +92,7 @@
                   <br>
             <!--Seccion Mision--->
               <h2 class="centrar-texto"><small>Mision</small></h2>
+              <br>
               Sociedad de Expansión de Bendición Biomagnética S.P.A., surgió con el objetivo de difundir y expandir la terapia de  Biomagnétismo Medico.
 
 Cuando supe que el Doctor Isaac Goiz Durán, descubridor del Biomagnétismo Médico, vino a Chile en el año 2003, a impartir el primer curso de Biomagnétismo Medico,  Y que pese a que habían transcurrido 14 años, sólo un porcentaje mínimo de chilenos sabía Lo que era el Biomagnétismo, o había recibido esta terapia, me pregunté: ¿Cómo era posible que siendo esta terapia tan maravillosa, tan poca gente la conociera?,¿Cómo era posible que tanta gente la asociara a un masaje, cuando yo en carne propia había comprobado su efectividad?,¿Cómo era posible que en México, estuviera reconocida por el Ministerio de Salud y Educación y en chile nada?.¿Cómo era posible que varios Médicos de la distinción Del doctor Raymond Hilu, de España, hubieran realizado comprobación científica del Biomagnétismo y en Chile, gran parte de los profesionales de la salud no le reconocieran Ninguna importancia?. Sin duda tenía que hacer algo al respecto.
@@ -138,7 +110,7 @@ Cuando supe que el Doctor Isaac Goiz Durán, descubridor del Biomagnétismo Méd
 
 	Sé bien que la meta es muy alta y a veces parece imposible, pero creo fervientemente que para Dios, nada es imposible, y si es a su voluntad, los caminos se nos irán abriendo.
 
-Roxana Barrera Acuña
+
               <br>
               <br>
              <cite>Roxana Barrera Acuña</cite>
@@ -147,194 +119,100 @@ Roxana Barrera Acuña
           </div>
           </div>
           <!--Fin seccion mision-->
-
-          <!--Region Iconos
-          <ul class="list-inline list-social-icons mb-0">
-            <li class="list-inline-item">
-              <a href="https://www.facebook.com/christopherandrew.gonzales">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          </ul>
-          <!--ENDREGION-->
         </div>
       </section>
      <!--ENDREGION-->
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
-        <div class="my-auto">
-          <h2 class="mb-5">Experience</h2>
 
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Senior Web Developer</h3>
-              <div class="subheading mb-3">Intelitec Solutions</div>
-              <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">March 2013 - Present</span>
-            </div>
+     <!--Seccion historia-->
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="historia">
+        <div class="container-fluid " >
+              <div class="bg-success-copia text-white " style="border-radius: 20px;">
+              <div style="margin: 10px;">
+                <br>
+          <!--Seccion Mision--->
+            <h2 class="centrar-texto"><small>Historia</small></h2>
+            <br>
+
+            A mediados del mes de agosto del año 2015, tuve un resfrío tipo bronquitis muy  fuerte, hace años que no me daba tan fuerte, y a veces parecía que este estaba desapareciendo, pero al día siguiente amanecía nuevamente tosiendo y votado flema verde. Entonces pensé que los productos de origen animal eran los que me podrían estar afectando, ya que como mi inmunidad se encontraba debilitada por el resfriado, quizás los antibióticos presentes en  estos alimentos, (hay estudios en Europa que así lo demuestran), me estaban produciendo una especie de alergia, que reavivaba el resfrío, como si nunca se hubiera ido. Por lo mismo, comencé a cambiar mi dieta y comer cada vez mas vegetariano, y llegar al veganismo, que practico actualmente.
+Por el resfrío y cambio de dieta, bajé en menos de dos semanas 10 kilos, y entonces me sentí unos bultitos cercanos al ombligo, e inmediatamente intuí que obviamente eso era algo anormal y por lo mismo consulté a la ginecóloga de mi hermana, pues para ser sincera, hacía varios años que yo no iba al médico.
+Luego de los estudios que me hicieron quedo en evidencia que tenía anemia tipo dos, y multiples miomas en mi útero, siendo los más grandes de 12, 9 y 5 centímetros, y el diagnostico de dos médicos, fue histerectomía, es decir, sacarme el útero con los miomas.
+Apenas acababa de cumplir 41 años y si bien no había considerado tan a fondo el tener hijos, en ese momento me pareció que la mutilación de mi cuerpo, no era lo correcto, que algo estaba mal en eso, por lo que tomé el tratamiento para la anemia, de la cual me recuperé y busque otro médico que me dijo que no era esencial sacar el útero, y que se podían sacar sólo los miomas, pero la verdad, no le creí y entonces, decidí postergar la operación, con la presión de mi familia para que me operara, y todos diciéndome que me podía desangrar, que me podía dar cáncer y en resumen, que no había otra alternativa. Sin embargo, las presiones externas no me importaron, y para que se quedaran tranquilos les dije que sólo me operaría si los miomas me seguían creciendo.
+Así las cosas, un año más tarde, me hice una nueva ecografía y resultó que los miomas habían crecido, el mas grande tenía ahora 15 centímetros, el otro 12 centímetros y el siguiente 6 centímetros, sin embargo ya no tenía anemia. Entonces pensé que la operación era el único camino, y consulté nuevamente al médico que me dijo que podía sacarme sólo los miomas, y me reiteró lo mismo, pero esta vez su lenguaje corporal, fue contradictorio, pues me dijo, poniéndose las dos manos en los ojos, que los miomas podían volver a salir, y luego la misma gestualidad, para decir, que podía haber mucho sangramiento en la operación, y lo que yo entendí, en resumidas cuentas, es que era muy improbable que yo pudiera conservar mi útero luego de la operación, sospecha que fue confirmada, el  día en que me fui a prehospitalizar, una semana antes de la operación, pues la doctora que me atendió, derechamente me preguntó que por qué me sacaba sólo los miomas y no el útero, ya que los miomas eran de gran tamaño y podía haber hemorragia. Me quedé de una pieza, un escalofrío recorrío mi cuerpo y luego de que me exigieron firmar un consentimiento, por el cual en resumen podían hacer lo que les pareciera necesario en la operación, para conservar mi salud, sin que yo pudiera alegar nada con posterioridad, me dejó una sensación de profunda tristeza, pues sabía tanto en mi cuerpo, como en mi alma,  que tenía que haber otra forma que no implicara una herida voluntaria en mi cuerpo y el cercenamiento del mismo.
+Ahhhh, con toda esa pena, estuve toda la semana buscando una excusa para no operarme, pero la verdad, no encontré ninguna y la operación estaba programada para el lunes 29 de Noviembre de 2016, en la tarde. Sin embargo, el día  domingo 28 de Noviembre de 2016, desperté con la sensación de haber tenido un sueño revelación, y con la idea clara de que debía buscar en YOUTUBE: “VIVIR SIN MATRIZ”. Así lo hice y en la primera opción, me apareció un reportaje de la químico mexicana, señora María Engel, Directora General del Centro Engel en México, quien hablaba de la importancia química del útero en el cuerpo femenino, ya que en la matriz  se producen sustancias fundamentales para la salud de una mujer, hasta el último de sus días, pues en el endometrio, paredes del útero, se produce el 50% de las Betaendorfinas, que son las que nos hacen sentir gusto por la vida, y que obviamente, después que le sacan el útero, viene la depresión. Que en el  cuello del utero, se produce el 50% de la humedad vaginal lo que permite prevenir infecciones,  y lubrica en los momentos de placer. Además de que en el cuello del útero se producen las hormonas prostaglandinas, que producen miles de efectos en el cuerpo femenino y que son el principal tónico de los ovarios lo que están conectados con la matriz, por muchas terminales nerviosas, y al quitarte la matriz, se ahorcan los ovarios.
+Si te quitan la matriz, a los seis meses tienes las hormonas de una mujer de 50 años Si te quitan los ovarios y la matriz, a los pocos días tienes las hormonas de una mujer de 70 años. Los miomas son benignos, y según 40 doctoras que han trabajado en Centro Engel, ninguna ha visto jamás un cáncer de mioma, y es más la señora Engel, tiende a pensar que este no existe. Les dejo el link, por si quieren verlo:<link> https://www.youtube.com/watch?v=IxPXOp-xvtI</link>
+
+Yo ya me había hecho el examen de Papiloma y no lo tenía, por lo que era altamente improbable que me diera cáncer, bueno, de hecho a la fecha, no tengo cáncer y aún tengo los miomas.
+En fin, luego de escuchar este reportaje, y con la convicción de que esta fue una revelación de Dios, decidí inmediatamente que no me operaría, pues me sentí traicionada por mi médico, ya que  consideré que él debería haberme dado a conocer esta información que claramente era fundamental para poder decidir, sobre el futuro de mi cuerpo, pues  estaba claro que siempre existió un riesgo de que me sacaran el útero, y se me había hecho creer que esto era intrascendente, que no pasaba nada, casi como sacarse una verruga.
+Me puse entonces a meditar, y se me vino a la mente la palabra “BIOMAGNETISMO”, la cual no recuerdo haber escuchado nunca antes de esa fecha y entonces busque nuevamente en YOUTUBE, y me salió como primera opción una entrevista que se había realizado por el programa Mucho Gusto de Megavisión, sobre la terapia de Biomagnetismo, en la cual aparecían varios testimonios de gente que había recibido la terapia, por terapeutas del Centro Ohani y que se habían recuperado milagrosamente.
+Así las cosas, comencé a tomar la terapia en este centro, con la terapeuta Patricia Muñoz, pues aparte de los miomas, todavía tenía muchas alergias con los alimentos de origen animal, los que probaba muy poco, pues me enfermaban.
+Luego de mi primera terapia, el marido de mi nana,  enfermó gravemente, con fiebre que no le bajaba, y dolores musculares y de cabeza en todo el cuerpo, por lo que lo hospitalizaron y si bien en un principio, los doctores pensaban que tenía meningitis, los exámenes no confirmaron ese diagnostico, sin embargo, luego de una semana de estar hospitalizado, lo dieron de alta, estabilizado y sin fiebre ni dolores, sin decirle, que es lo que tuvo. A la semana siguiente, le volvieron los síntomas, pero un poco más atenuados, y mi nana, estaba sumamente afligida, por lo que yo le ofrecí regalarle a su marido la terapia de biomagnetismo, ya que sentía que eso, claramente, si lo curaría, sobre todo porque en mi corazón, tenía la sensación de que Dios me había mostrado ese camino.
+Finalmente, él y yo terminamos la terapia, y nos  sanamos, por lo que consideré que el Biomagnetismo, era la mejor opción medicinal, que al menos yo conocía, pues curaba rápidamente y no era tan cara, como los otros tipos de medicina. En realidad, estaba deslumbrada con esta terapia.
+En eso me enteré que el Doctor Isaac Goiz Durán, descubridor del Biomagnetismo, vendría a Chile, en los primeros días de Marzo de 2017, a impartir el curso de Biomagnetismo, por lo que rápidamente me decidí a tomarlo, pues siempre tuve un talento natural, para ayudar a la gente cuando estaba enferma, sugiriéndoles ejercicios o hierbas medicinales.
+Tomé el curso con el Doctor Goiz, y quedé encantada, pues frente a mis ojos, vi sanaciones increíbles, como el caso del hijo de una compañera que viajó desde Uruguay a tomar el curso, para que el  Doctor Goiz, le hiciera la terapia a su hijo de 6 años, el cual estaba diagnosticado con autismo, y que el doctor, atendió, señalándonos que era una bacteria que vivía en el cerebro, trasmitida por las cucarachas y además Virus Zika, ambas enfermedades, que le inflamaban el cerebro y que lógicamente no le permitían pensar bien. Hasta hoy sigo en contacto con la madre del niño, con quien nos hemos hecho amigas a la distancia, y me conmueve muchísimo ver los avances de este pequeño, que ahora ya  esta aprendiendo a hablar, con progresos evidentes, y sólo luego de algunos meses.
+Igualmente, a otra compañera de aproximadamente 55 años, el doctor la sanó de una displacia de cadera y bueno, vi muchos otros casos, que me dejaron llorando de alegría, al igual que sus protagonistas.
+Me  di cuenta y así se lo pregunté al Doctor Goiz, sin él consideraba de que el Biomagnetismo, era una revelación de Dios y me respondío que si, y que él, siempre ha querido que esta terapia que se expandiera por el mundo para Bendición de toda la humanidad.
+Que les puedo decir, el biomagnetismo, simplemente se apoderó de mi vida, lo encontré fascinante, y descubrí en mi, un talento natural, que no sabía que tenía, y me recordé de un sueño que tuve en el año 2012, en que me vi en el bosque en un sitio en que rento una cabaña en el Sur,  en el cual yo tenía como 65 años y la gente venía a verme para que yo las sanara y yo sólo tocándolas en la cabeza, las sanaba y me conmovia y alegraba inmensamente.
+Cada vez sentía mas en mi interior, el deseo de dedicarme solamente a perfeccionarme en biomagnetismo, por lo que postule y fui aceptada para tomar el Nivel II, denominado Bioenergética, en el Centro Ohani, quienes son los únicos autorizados por el Doctor Goiz, para impartir el curso en Chile. Este curso, lo hice a mediados de Abril de 2017, y cada vez se acrecentaba más en mi, la idea de dedicarme exclusivamente al Biomagnetismo, pues veía como se iban curando mi familia y mis amigos, a quienes había practicado gratuitamente la terapia durante mi practica.
+Pensé entonces que podría seguir ejerciendo mi profesión, medio día y el otro medio día dedicarme a biomagnetismo, ya que al igual que casi todo el mundo, padecía los síntomas de la que considero la peor enfermedad mental del ser humano, es decir, el  “Miedo al futuro”. Efectivamente, tenía miedo de que me faltara el dinero, de perder la comodidad de la vida que llevaba, con ingresos de varios millones de pesos anuales, trabajando solamente 30 ó 35 horas semanales en promedio, con 8 semanas de vacaciones al año, y el hecho de ser mi propia jefa, en el Estudio Jurídico, que había formado  con mis colaboradores.
+Estaba en medio de ese conflicto interior, cuando el día 2 de Mayo de 2017, tuve un accidente en mi automóvil, me volqué en un curva en un camino del Sur y como resultado mi vehículo terminó con daño total, y yo por milagro de Dios, solo con dos costillas fracturadas. Pasaron tres semanas luego del accidente, en que estuve luchando conmigo misma, pues todo en mi corazón, me decía que debía seguir sólo con biomagnetismo, pero el miedo, seguía siendo demasiado fuerte. En eso, me enteré que el Doctor Isaac Goiz Durán, vendría nuevamente a Chile a fines de Mayo de 2017, a impartir el Segundo Nivel de Bioenergetica, y no obstante que yo ya había hecho ese curso, decidí tomarlo nuevamente con él.  Presencié sanaciones increíbles, pero reales, lo que me confirmaba que esta terapia, era una Bendición de Dios para la humanidad. De pronto, me di cuenta de que Dios me estaba llamando, de que no morí en el accidente de tránsito, y de que ahora tenía nueva vida, para que ayudara a sanar a tanta gente que sufre los terribles dolores de la enfermedad, y me dije: “Acaso llegaste sola aquí???, Sabes bien que eso no es así, Dios te trajo hasta aquí!!.  De hecho, por gracia de Dios, pude estudiar mi carrera con una Beca, que me cayó literalmente del cielo, y logré convertirme entonces, en la primera profesional de mi familia. Nunca estuvo en mi planes ganar tanto dinero, pero así pasó, todo se me fue dando bien, y siempre recibía los frutos de mi esfuerzo superando las expectativas que yo tenía. En efecto, le debía tanto a Dios, y como me permitía dudar de que Él me cuidaría, así como me había cuidado toda la vida, bendiciendo mi trabajo, y poniéndome a la altura de destacados especialistas.
+Comprendí que mi miedo era injustificado, estaba segura de que Dios bendiciría mi proyecto, y que es precisamente expandir la terapia de biomagnetismo por Chile y por el mundo, para que más personas puedan ser bendecidas con la sanación y dejar de lado el sufrimiento, en resumen decidí dedicar toda mi energía profesional, toda mi concentración a este objetivo, y es por eso, que ya desde Junio de 2017, dejé de tomar nuevos casos, y dejé de ejercer como abogada, y ahora estoy concentrada 100% en el Biomagnetismo Médico, intentando en cada terapia, sanar a las personas que me consultan y es por eso que decidí transformar mi empresa, y rebautizarla, como: “SOCIEDAD DE EXPANSIÓN DE BENDICIÓN BIOMAGNETICA S.P.A.”
           </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Web Developer</h3>
-              <div class="subheading mb-3">Intelitec Solutions</div>
-              <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">December 2011 - March 2013</span>
-            </div>
-          </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Junior Web Designer</h3>
-              <div class="subheading mb-3">Shout! Media Productions</div>
-              <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">July 2010 - December 2011</span>
-            </div>
-          </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Web Design Intern</h3>
-              <div class="subheading mb-3">Shout! Media Productions</div>
-              <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">September 2008 - June 2010</span>
-            </div>
-          </div>
-
         </div>
-
+        </div>
       </section>
+<!--FIn seccion Historia-->
 
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
-        <div class="my-auto">
-          <h2 class="mb-5">Educacion</h2>
 
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Instituto Profesional DUOC UC</h3>
-              <div class="subheading mb-3">Ingenieria en Informatica</div>
-              <div>Cursando el 6° semestre</div>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">2015 - Cursando</span>
-            </div>
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="financiamiento">
+
+        <div class="container-fluid " >
+              <div class="bg-success-copia text-white " style="border-radius: 20px;">
+              <div style="margin: 10px;">
+                <br>
+          <!--Seccion Mision--->
+            <h2 class="centrar-texto"><small>Financiamiento</small></h2>
+            <br>
+
+            A mediados del mes de agosto del año 2015, tuve un resfrío tipo bronquitis muy  fuerte, hace años que no me daba tan fuerte, y a veces parecía que este estaba desapareciendo, pero al día siguiente amanecía nuevamente tosiendo y votado flema verde. Entonces pensé que los productos de origen animal eran los que me podrían estar afectando, ya que como mi inmunidad se encontraba debilitada por el resfriado, quizás los antibióticos presentes en  estos alimentos, (hay estudios en Europa que así lo demuestran), me estaban produciendo una especie de alergia, que reavivaba el resfrío, como si nunca se hubiera ido. Por lo mismo, comencé a cambiar mi dieta y comer cada vez mas vegetariano, y llegar al veganismo, que practico actualmente.
+  Por el resfrío y cambio de dieta, bajé en menos de dos semanas 10 kilos, y entonces me sentí unos bultitos cercanos al ombligo, e inmediatamente intuí que obviamente eso era algo anormal y por lo mismo consulté a la ginecóloga de mi hermana, pues para ser sincera, hacía varios años que yo no iba al médico.
+  Luego de los estudios que me hicieron quedo en evidencia que tenía anemia tipo dos, y multiples miomas en mi útero, siendo los más grandes de 12, 9 y 5 centímetros, y el diagnostico de dos médicos, fue histerectomía, es decir, sacarme el útero con los miomas.
+  Apenas acababa de cumplir 41 años y si bien no había considerado tan a fondo el tener hijos, en ese momento me pareció que la mutilación de mi cuerpo, no era lo correcto, que algo estaba mal en eso, por lo que tomé el tratamiento para la anemia, de la cual me recuperé y busque otro médico que me dijo que no era esencial sacar el útero, y que se podían sacar sólo los miomas, pero la verdad, no le creí y entonces, decidí postergar la operación, con la presión de mi familia para que me operara, y todos diciéndome que me podía desangrar, que me podía dar cáncer y en resumen, que no había otra alternativa. Sin embargo, las presiones externas no me importaron, y para que se quedaran tranquilos les dije que sólo me operaría si los miomas me seguían creciendo.
+  Así las cosas, un año más tarde, me hice una nueva ecografía y resultó que los miomas habían crecido, el mas grande tenía ahora 15 centímetros, el otro 12 centímetros y el siguiente 6 centímetros, sin embargo ya no tenía anemia. Entonces pensé que la operación era el único camino, y consulté nuevamente al médico que me dijo que podía sacarme sólo los miomas, y me reiteró lo mismo, pero esta vez su lenguaje corporal, fue contradictorio, pues me dijo, poniéndose las dos manos en los ojos, que los miomas podían volver a salir, y luego la misma gestualidad, para decir, que podía haber mucho sangramiento en la operación, y lo que yo entendí, en resumidas cuentas, es que era muy improbable que yo pudiera conservar mi útero luego de la operación, sospecha que fue confirmada, el  día en que me fui a prehospitalizar, una semana antes de la operación, pues la doctora que me atendió, derechamente me preguntó que por qué me sacaba sólo los miomas y no el útero, ya que los miomas eran de gran tamaño y podía haber hemorragia. Me quedé de una pieza, un escalofrío recorrío mi cuerpo y luego de que me exigieron firmar un consentimiento, por el cual en resumen podían hacer lo que les pareciera necesario en la operación, para conservar mi salud, sin que yo pudiera alegar nada con posterioridad, me dejó una sensación de profunda tristeza, pues sabía tanto en mi cuerpo, como en mi alma,  que tenía que haber otra forma que no implicara una herida voluntaria en mi cuerpo y el cercenamiento del mismo.
+  Ahhhh, con toda esa pena, estuve toda la semana buscando una excusa para no operarme, pero la verdad, no encontré ninguna y la operación estaba programada para el lunes 29 de Noviembre de 2016, en la tarde. Sin embargo, el día  domingo 28 de Noviembre de 2016, desperté con la sensación de haber tenido un sueño revelación, y con la idea clara de que debía buscar en YOUTUBE: “VIVIR SIN MATRIZ”. Así lo hice y en la primera opción, me apareció un reportaje de la químico mexicana, señora María Engel, Directora General del Centro Engel en México, quien hablaba de la importancia química del útero en el cuerpo femenino, ya que en la matriz  se producen sustancias fundamentales para la salud de una mujer, hasta el último de sus días, pues en el endometrio, paredes del útero, se produce el 50% de las Betaendorfinas, que son las que nos hacen sentir gusto por la vida, y que obviamente, después que le sacan el útero, viene la depresión. Que en el  cuello del utero, se produce el 50% de la humedad vaginal lo que permite prevenir infecciones,  y lubrica en los momentos de placer. Además de que en el cuello del útero se producen las hormonas prostaglandinas, que producen miles de efectos en el cuerpo femenino y que son el principal tónico de los ovarios lo que están conectados con la matriz, por muchas terminales nerviosas, y al quitarte la matriz, se ahorcan los ovarios.
+  Si te quitan la matriz, a los seis meses tienes las hormonas de una mujer de 50 años Si te quitan los ovarios y la matriz, a los pocos días tienes las hormonas de una mujer de 70 años. Los miomas son benignos, y según 40 doctoras que han trabajado en Centro Engel, ninguna ha visto jamás un cáncer de mioma, y es más la señora Engel, tiende a pensar que este no existe. Les dejo el link, por si quieren verlo:<link> https://www.youtube.com/watch?v=IxPXOp-xvtI</link>
+
+  Yo ya me había hecho el examen de Papiloma y no lo tenía, por lo que era altamente improbable que me diera cáncer, bueno, de hecho a la fecha, no tengo cáncer y aún tengo los miomas.
+  En fin, luego de escuchar este reportaje, y con la convicción de que esta fue una revelación de Dios, decidí inmediatamente que no me operaría, pues me sentí traicionada por mi médico, ya que  consideré que él debería haberme dado a conocer esta información que claramente era fundamental para poder decidir, sobre el futuro de mi cuerpo, pues  estaba claro que siempre existió un riesgo de que me sacaran el útero, y se me había hecho creer que esto era intrascendente, que no pasaba nada, casi como sacarse una verruga.
+  Me puse entonces a meditar, y se me vino a la mente la palabra “BIOMAGNETISMO”, la cual no recuerdo haber escuchado nunca antes de esa fecha y entonces busque nuevamente en YOUTUBE, y me salió como primera opción una entrevista que se había realizado por el programa Mucho Gusto de Megavisión, sobre la terapia de Biomagnetismo, en la cual aparecían varios testimonios de gente que había recibido la terapia, por terapeutas del Centro Ohani y que se habían recuperado milagrosamente.
+  Así las cosas, comencé a tomar la terapia en este centro, con la terapeuta Patricia Muñoz, pues aparte de los miomas, todavía tenía muchas alergias con los alimentos de origen animal, los que probaba muy poco, pues me enfermaban.
+  Luego de mi primera terapia, el marido de mi nana,  enfermó gravemente, con fiebre que no le bajaba, y dolores musculares y de cabeza en todo el cuerpo, por lo que lo hospitalizaron y si bien en un principio, los doctores pensaban que tenía meningitis, los exámenes no confirmaron ese diagnostico, sin embargo, luego de una semana de estar hospitalizado, lo dieron de alta, estabilizado y sin fiebre ni dolores, sin decirle, que es lo que tuvo. A la semana siguiente, le volvieron los síntomas, pero un poco más atenuados, y mi nana, estaba sumamente afligida, por lo que yo le ofrecí regalarle a su marido la terapia de biomagnetismo, ya que sentía que eso, claramente, si lo curaría, sobre todo porque en mi corazón, tenía la sensación de que Dios me había mostrado ese camino.
+  Finalmente, él y yo terminamos la terapia, y nos  sanamos, por lo que consideré que el Biomagnetismo, era la mejor opción medicinal, que al menos yo conocía, pues curaba rápidamente y no era tan cara, como los otros tipos de medicina. En realidad, estaba deslumbrada con esta terapia.
+  En eso me enteré que el Doctor Isaac Goiz Durán, descubridor del Biomagnetismo, vendría a Chile, en los primeros días de Marzo de 2017, a impartir el curso de Biomagnetismo, por lo que rápidamente me decidí a tomarlo, pues siempre tuve un talento natural, para ayudar a la gente cuando estaba enferma, sugiriéndoles ejercicios o hierbas medicinales.
+  Tomé el curso con el Doctor Goiz, y quedé encantada, pues frente a mis ojos, vi sanaciones increíbles, como el caso del hijo de una compañera que viajó desde Uruguay a tomar el curso, para que el  Doctor Goiz, le hiciera la terapia a su hijo de 6 años, el cual estaba diagnosticado con autismo, y que el doctor, atendió, señalándonos que era una bacteria que vivía en el cerebro, trasmitida por las cucarachas y además Virus Zika, ambas enfermedades, que le inflamaban el cerebro y que lógicamente no le permitían pensar bien. Hasta hoy sigo en contacto con la madre del niño, con quien nos hemos hecho amigas a la distancia, y me conmueve muchísimo ver los avances de este pequeño, que ahora ya  esta aprendiendo a hablar, con progresos evidentes, y sólo luego de algunos meses.
+  Igualmente, a otra compañera de aproximadamente 55 años, el doctor la sanó de una displacia de cadera y bueno, vi muchos otros casos, que me dejaron llorando de alegría, al igual que sus protagonistas.
+  Me  di cuenta y así se lo pregunté al Doctor Goiz, sin él consideraba de que el Biomagnetismo, era una revelación de Dios y me respondío que si, y que él, siempre ha querido que esta terapia que se expandiera por el mundo para Bendición de toda la humanidad.
+  Que les puedo decir, el biomagnetismo, simplemente se apoderó de mi vida, lo encontré fascinante, y descubrí en mi, un talento natural, que no sabía que tenía, y me recordé de un sueño que tuve en el año 2012, en que me vi en el bosque en un sitio en que rento una cabaña en el Sur,  en el cual yo tenía como 65 años y la gente venía a verme para que yo las sanara y yo sólo tocándolas en la cabeza, las sanaba y me conmovia y alegraba inmensamente.
+  Cada vez sentía mas en mi interior, el deseo de dedicarme solamente a perfeccionarme en biomagnetismo, por lo que postule y fui aceptada para tomar el Nivel II, denominado Bioenergética, en el Centro Ohani, quienes son los únicos autorizados por el Doctor Goiz, para impartir el curso en Chile. Este curso, lo hice a mediados de Abril de 2017, y cada vez se acrecentaba más en mi, la idea de dedicarme exclusivamente al Biomagnetismo, pues veía como se iban curando mi familia y mis amigos, a quienes había practicado gratuitamente la terapia durante mi practica.
+  Pensé entonces que podría seguir ejerciendo mi profesión, medio día y el otro medio día dedicarme a biomagnetismo, ya que al igual que casi todo el mundo, padecía los síntomas de la que considero la peor enfermedad mental del ser humano, es decir, el  “Miedo al futuro”. Efectivamente, tenía miedo de que me faltara el dinero, de perder la comodidad de la vida que llevaba, con ingresos de varios millones de pesos anuales, trabajando solamente 30 ó 35 horas semanales en promedio, con 8 semanas de vacaciones al año, y el hecho de ser mi propia jefa, en el Estudio Jurídico, que había formado  con mis colaboradores.
+  Estaba en medio de ese conflicto interior, cuando el día 2 de Mayo de 2017, tuve un accidente en mi automóvil, me volqué en un curva en un camino del Sur y como resultado mi vehículo terminó con daño total, y yo por milagro de Dios, solo con dos costillas fracturadas. Pasaron tres semanas luego del accidente, en que estuve luchando conmigo misma, pues todo en mi corazón, me decía que debía seguir sólo con biomagnetismo, pero el miedo, seguía siendo demasiado fuerte. En eso, me enteré que el Doctor Isaac Goiz Durán, vendría nuevamente a Chile a fines de Mayo de 2017, a impartir el Segundo Nivel de Bioenergetica, y no obstante que yo ya había hecho ese curso, decidí tomarlo nuevamente con él.  Presencié sanaciones increíbles, pero reales, lo que me confirmaba que esta terapia, era una Bendición de Dios para la humanidad. De pronto, me di cuenta de que Dios me estaba llamando, de que no morí en el accidente de tránsito, y de que ahora tenía nueva vida, para que ayudara a sanar a tanta gente que sufre los terribles dolores de la enfermedad, y me dije: “Acaso llegaste sola aquí???, Sabes bien que eso no es así, Dios te trajo hasta aquí!!.  De hecho, por gracia de Dios, pude estudiar mi carrera con una Beca, que me cayó literalmente del cielo, y logré convertirme entonces, en la primera profesional de mi familia. Nunca estuvo en mi planes ganar tanto dinero, pero así pasó, todo se me fue dando bien, y siempre recibía los frutos de mi esfuerzo superando las expectativas que yo tenía. En efecto, le debía tanto a Dios, y como me permitía dudar de que Él me cuidaría, así como me había cuidado toda la vida, bendiciendo mi trabajo, y poniéndome a la altura de destacados especialistas.
+  Comprendí que mi miedo era injustificado, estaba segura de que Dios bendiciría mi proyecto, y que es precisamente expandir la terapia de biomagnetismo por Chile y por el mundo, para que más personas puedan ser bendecidas con la sanación y dejar de lado el sufrimiento, en resumen decidí dedicar toda mi energía profesional, toda mi concentración a este objetivo, y es por eso, que ya desde Junio de 2017, dejé de tomar nuevos casos, y dejé de ejercer como abogada, y ahora estoy concentrada 100% en el Biomagnetismo Médico, intentando en cada terapia, sanar a las personas que me consultan y es por eso que decidí transformar mi empresa, y rebautizarla, como: “SOCIEDAD DE EXPANSIÓN DE BENDICIÓN BIOMAGNETICA S.P.A.”
           </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Instituto Profesional AIEP</h3>
-              <div class="subheading mb-3">Tecnico en enfermeria</div>
-              <div>Tecnico en enfermeria mencion urgencia</div>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">2011 - 2014</span>
-            </div>
-          </div>
-           <br>
-          <div class="resume-item d-flex flex-column flex-md-row">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Mercedez Marin del solar</h3>
-              <div class="subheading mb-3">Educacion Media</div>
-             <!-- <div>Tecnico en enfermeria mencion urgencia</div>-->
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">2005 - 2008</span>
-            </div>
-          </div>
-
+        </div>
         </div>
       </section>
 
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
-        <div class="my-auto">
-          <h2 class="mb-5">Skills</h2>
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="links">
+        <div class="container-fluid " >
+              <div class="bg-success-copia text-white " style="border-radius: 20px;">
+              <div style="margin: 10px;">
+                <br>
+          <!--Seccion Mision--->
+            <h2 class="centrar-texto"><small>Links de interes</small></h2>
+            <br>
 
-          <div class="subheading mb-3">Programming Languages &amp; Tools</div>
-          <ul class="list-inline list-icons">
-            <li class="list-inline-item">
-              <i class="devicons devicons-html5"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-css3"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-javascript"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-jquery"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-sass"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-less"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-bootstrap"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-wordpress"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-grunt"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-gulp"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-npm"></i>
-            </li>
-          </ul>
 
-          <div class="subheading mb-3">Workflow</div>
-          <ul class="fa-ul mb-0">
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Mobile-First, Responsive Design</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Cross Browser Testing &amp; Debugging</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Cross Functional Teams</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Agile Development &amp; Scrum</li>
-          </ul>
+          </div>
+        </div>
         </div>
       </section>
 

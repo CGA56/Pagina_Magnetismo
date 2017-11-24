@@ -27,7 +27,7 @@ Creacion de proyecto Laravel
    -Entrar a la pagina de jquery y descargar el archivo . Este debes pegarlo en la carpeta public/js
 
    - Entrar al enlace https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js . control + s y guardarlo en public/js
-   
+
    - Al final del bodi agregar las lineas
 
     <script type="text/javascript" src="{{url('js/popper.min.js')}}"></script>
@@ -36,7 +36,7 @@ Creacion de proyecto Laravel
     Listo bootsTrap en la APP.
 
 3.- Para integrar plantilla
-    
+
     - Para agregar una plantilla . Todos los archivos css deben ir en public css y los archivos js en la carpeta public /js
     - MOdificar la ruta de todos los archivos css y js que requiera la plantilla de esta manera
 
@@ -50,9 +50,9 @@ Creacion de proyecto Laravel
 
     <!-- Custom styles for this template -->
     <link href="css/resume.min.css" rel="stylesheet">
-     
+
     - Siguiendo todos los pasos del punto 2.-
 
-
-
-
+ 4.- bajar un proyecto de github a platform
+     1.- control+shift+p
+     2.- poner en el buscador githab:clone nombre repositorio
