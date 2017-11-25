@@ -42,7 +42,7 @@
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span class="d-block d-lg-none">Menu</span>
         <span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/perfil.jpg" alt="">
         </span>
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -76,7 +76,7 @@
 
 
       <div class="container" style="padding: 50px;">
-         <img src="img/GIRASOLES%20Y%20ARCOIRIS.jpg" class="img-responsive"  width="950px" height="300px"  style="border-radius:20px;">
+         <img src="img/girasoles.png" class="img-responsive"  width="100%" height="auto"  style="border-radius:20px;">
       </div>
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="mision">
         <div class="my-auto">
