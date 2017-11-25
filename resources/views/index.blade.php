@@ -75,7 +75,7 @@
 
 
 
-      <div class="container">
+      <div class="container" style="padding: 50px;">
          <img src="img/GIRASOLES%20Y%20ARCOIRIS.jpg" class="img-responsive"  width="950px" height="300px"  style="border-radius:20px;">
       </div>
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="mision">
