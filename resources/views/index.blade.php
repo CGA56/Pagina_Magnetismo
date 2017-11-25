@@ -75,7 +75,7 @@
 
 
 
-      <div class="container" style="padding: 50px;">
+      <div class="container" style="padding: 2% 2% 7% 2%;">
          <img src="img/girasoles.png" class="img-responsive"  width="100%" height="auto"  style="border-radius:20px;">
       </div>
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="mision">
@@ -209,7 +209,7 @@ Comprendí que mi miedo era injustificado, estaba segura de que Dios bendiciría
           <!--Seccion Mision--->
             <h2 class="centrar-texto"><small>Links de interes</small></h2>
             <br>
-
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/IxPXOp-xvtI" frameborder="0" allowfullscreen></iframe>
 
           </div>
         </div>
