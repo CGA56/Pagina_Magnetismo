@@ -8,13 +8,18 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Sociedad de expansion de Bendición Biomagnética S.P.A.</title>
+    <title>Bendición Biomagnética SpA</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" type="text/css" href="{{url('css/bootstrap.min.css')}}">
     <script type="text/javascript" src="{{url('js/jquery-3.2.1.min.js')}}"></script>
 
+    <!-- Lightbox -->
+    <link rel="stylesheet" type="text/css" href="{{url('css/ekko-lightbox.css')}}">
+    <script type="text/javascript" src="{{url('js/ekko-lightbox.js')}}">
 
+    </script>
+    <script type="text/javascript" src="{{url('js/ekko-lightbox.min.js')}}"></script>
 
 
     <!-- Custom fonts for this template -->
@@ -39,7 +44,7 @@
    <!--Region navegador-->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#perfil"><!--href="#page-top"-->
-        <span class="d-block d-lg-none">Menu</span>
+        <span class="d-block d-lg-none">Menú</span>
         <span class="d-none d-lg-block">
           <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/perfil.jpg" alt="" >
         </span>
@@ -50,7 +55,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#mision">Mision</a>
+            <a class="nav-link js-scroll-trigger" href="#mision">Misión</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#historia">Historia</a>
@@ -59,7 +64,7 @@
             <a class="nav-link js-scroll-trigger" href="#financiamiento">Financiamiento</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#links">Links de interes</a>
+            <a class="nav-link js-scroll-trigger" href="#links">Links de interés</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#perfil">Perfil</a>
@@ -93,7 +98,7 @@
           <div class="container-fluid " >
                 <div class="bg-success-copia text-white " style="border-radius: 20px;">
                 <div style="margin: 10px;">
-              <h2 class="centrar-texto"><small>Mision</small></h2>
+              <h2 class="centrar-texto"><small>Misión</small></h2>
             </div>
           </div>
           </div>
@@ -167,18 +172,57 @@
         <div class="container-fluid " >
               <div class="bg-success-copia text-white " style="border-radius: 20px;">
               <div style="margin: 10px;">
-            <h2 class="centrar-texto"><small>Links de interes</small></h2>
+            <h2 class="centrar-texto"><small>Links de interés</small></h2>
           </div>
         </div>
         </div>
         <!---->
         <div class="container-fluid " >
               <div class="bg-success-copia text-white " style="border-radius: 20px;">
-              <div style="margin: 10px;">
+              <div style="padding: 2%;">
 
             <!--h2 class="centrar-texto"><small>Links de interes</small></h2-->
+            <div class="row">
+              <a href="https://www.youtube.com/watch?v=R6V9-fE3hQU" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4" style="text-decoration: none; color: white;">
+                <figure style="display: table;">
+                  <img src="http://img.youtube.com/vi/R6V9-fE3hQU/mqdefault.jpg" class="img-fluid" style="border-radius:10px;">
+                  <figcaption style="text-align: center; display: table-caption; caption-side: bottom">Comprobación Científica del Biomagnetismo Médico. Doctores Raimond Hilu e Isaac Goiz Durán.</figcaption>
+                </figure>
+              </a>
+              <a href="https://www.youtube.com/watch?v=l7k1UpslEs8" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4" style="text-decoration: none; color: white;">
+                <figure style="display: table;">
+                  <img src="http://img.youtube.com/vi/l7k1UpslEs8/mqdefault.jpg" class="img-fluid" style="border-radius:10px;">
+                  <figcaption style="text-align: center; display: table-caption; caption-side: bottom">Hidroterapia con Sal Marina. Doctor Alberto Martin Bosh.</figcaption>
+                </figure>
+              </a>
+              <a href="https://www.youtube.com/watch?v=k2EWriOcoU8" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4"  style="text-decoration: none; color: white;">
+                <figure style="display: table;">
+                  <img src="http://img.youtube.com/vi/k2EWriOcoU8/mqdefault.jpg" class="img-fluid" style="border-radius:10px;">
+                  <figcaption style="text-align: center; display: table-caption; caption-side: bottom">Progreso de la diálisis percutánea.</figcaption>
+                </figure>
+              </a>
+            </div>
             <br>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/IxPXOp-xvtI" frameborder="0" allowfullscreen></iframe>
+            <div class="row">
+              <a href="https://www.youtube.com/watch?v=SS7xgnyr8aY" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4"  style="text-decoration: none; color: white;">
+                <figure style="display: table;">
+                  <img src="http://img.youtube.com/vi/SS7xgnyr8aY/mqdefault.jpg" class="img-fluid" style="border-radius:10px;">
+                  <figcaption style="text-align: center; display: table-caption; caption-side: bottom">La causa de todas las enfermedades.</figcaption>
+                </figure>
+              </a>
+              <a href="https://www.youtube.com/watch?v=Z7quAsYmZSc" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4"  style="text-decoration: none; color: white;">
+                <figure style="display: table;">
+                  <img src="http://img.youtube.com/vi/Z7quAsYmZSc/mqdefault.jpg" class="img-fluid" style="border-radius:10px;">
+                  <figcaption style="text-align: center; display: table-caption; caption-side: bottom">Si los mataderos tuvieran pareces de cristal, todos seriamos vegetarianos.</figcaption>
+                </figure>
+              </a>
+              <a href="https://www.google.es/amp/hermandadblanca.org/medicina-mapuche-una-sabiduria-ancestral/amp/" data-toggle="lightbox" data-gallery="" class="col-xs-12 col-sm-6 col-lg-4"  style="text-decoration: none; color: white;">
+                <figure style="display: table;">
+                  <img src="http://www.simpleimageresizer.com/_uploads/photos/1bc3cd64/kultrun_mapuche-LeoPrieto-300x198_320x180.jpg" class="img-fluid" style="border-radius:10px;">
+                  <figcaption style="text-align: center; display: table-caption; caption-side: bottom">Medicina Mapuche, una sabiduría ancestral.</figcaption>
+                </figure>
+              </a>
+            </div>
           </div>
         </div>
         </div>
@@ -254,6 +298,14 @@
      <script type="text/javascript" src="{{url('js/popper.min.js')}}"></script>
   <script type="text/javascript" src="{{url('js/bootstrap.min.js')}}"></script>
 
+
+  <!-- Función Lightbox -->
+  <script>
+  $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+      event.preventDefault();
+      $(this).ekkoLightbox();
+  });
+  </script>
 
 
   </body>
