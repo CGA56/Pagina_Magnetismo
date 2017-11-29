@@ -259,8 +259,9 @@
         <div class="container-fluid " >
               <div class="bg-success-copia text-white " style="border-radius: 20px;">
               <div style="margin: 10px;">
-                <!--br>
-            <h2 class="centrar-texto"><small>Perfil</small></h2-->
+
+                <br>
+            <!--<h2 class="centrar-texto"><small>Perfil</small></h2-->
              @yield('perfil')
             <br>
           </div>
