@@ -38,7 +38,7 @@
 
   </head>
 
-  <body id="page-top">
+  <body id="page-top" class="fondoBody">
 
    <!--Region navegador-->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
