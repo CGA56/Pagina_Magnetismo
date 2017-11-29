@@ -16,3 +16,13 @@ text-align: center;
 .centrar-texto{
   text-align: center;
 }
+
+.crop{
+  word-wrap:break-word;
+  -webkit-hyphens:auto;
+  -moz-hyphens:auto;
+  -ms-hyphens:auto;
+  -o-hyphens:auto;
+  hyphens:auto;
+
+}

@@ -17,8 +17,7 @@
     <!-- Lightbox -->
     <link rel="stylesheet" type="text/css" href="{{url('css/ekko-lightbox.css')}}">
     <script type="text/javascript" src="{{url('js/ekko-lightbox.js')}}">
-
-    </script>
+</script>
     <script type="text/javascript" src="{{url('js/ekko-lightbox.min.js')}}"></script>
 
 
@@ -46,9 +45,11 @@
       <a class="navbar-brand js-scroll-trigger" href="#perfil"><!--href="#page-top"-->
         <span class="d-block d-lg-none">Menú</span>
         <span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/perfil.jpg" alt="" >
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/perfil.jpg" alt="">
+
         </span>
       </a>
+
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -69,6 +70,9 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#perfil">Perfil</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#page-top">Inicio</a>
+          </li>
           <!--
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#awards">Logros</a>
@@ -81,29 +85,45 @@
 
 
     <!--Region presentacion-->
-      <div class="container" style="padding: 2% 2% 8% 2%;">
-         <img src="img/girasoles.png" class="img-responsive"  width="100%" height="auto"  style="border-radius:20px;">
+      <div class="container" style="padding: 2%;" id="inicio">
+         <img src="img/logoTipoOpcion1.png" class="img-responsive"  width="100%" height="auto"  style="border-radius:20px;">
       </div>
+
+
+      <div class="container" style="padding: 2% ;">
+         <img src="img\logoPresentacion.JPG" class="img-responsive"  width="100%" height="auto"  >
+         <div class="container subheading mb-5">Huérfanos 1117 · Oficina 1018 · Santiago · (+569) 2-26880810 ·
+           <a href="mailto:name@email.com">roxanabarre@gmail.cl</a>
+         </div>
+      </div>
+
+      <!--div class="container-fluid " >
+            <div style="padding:6% 10%;">
+              <h1 class="mb-0 crop">Bendición
+                <span class="text-primary">Biomagnética</span>
+              </h1>
+              <div class="subheading mb-5">Huérfanos 1117 · Oficina 1018 · Santiago · (+569) 2-26880810 ·
+                <a href="mailto:name@email.com">roxanabarre@gmail.cl</a>
+              </div>
+        </div>
+      </div-->
+
+
+
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="mision">
         <div class="my-auto">
-          <h1 class="mb-0">Bendición
-            <span class="text-primary">Biomagnética</span>
-          </h1>
-          <div class="subheading mb-5">Huérfanos 1117 · Oficina 1018 · Santiago · (+569) 2-26880810 ·
-            <a href="mailto:name@email.com">roxanabarre@gmail.cl</a>
-          </div>
             <!--ENDREGION presentacion-->
             <!--Region Mision--->
             <!--Div flotante-->
-          <div class="container-fluid " >
-                <div class="bg-success-copia text-white " style="border-radius: 20px;">
-                <div style="margin: 10px;">
-              <h2 class="centrar-texto"><small>Misión</small></h2>
+            <div class="container-fluid " >
+                  <div class="bg-success-copia text-white " style="border-radius: 20px;">
+                  <div style="margin: 10px;">
+                 <h2 class="centrar-texto"><small>Mision</small></h2>
+              </div>
             </div>
           </div>
-          </div>
          <!----->
-          <div class="container-fluid " >
+          <div class="container-fluid ">
                 <div class="bg-success-copia text-white " style="border-radius: 20px;">
                 <div style="margin: 10px;">
                   <br>
@@ -185,19 +205,19 @@
             <div class="row">
               <a href="https://www.youtube.com/watch?v=R6V9-fE3hQU" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4" style="text-decoration: none; color: white;">
                 <figure style="display: table;">
-                  <img src="http://img.youtube.com/vi/R6V9-fE3hQU/mqdefault.jpg" class="img-fluid" style="border-radius:10px;">
+                  <img src="img/comprobacion-cientifica.jpg" class="img-fluid" style="border-radius:10px;">
                   <figcaption style="text-align: center; display: table-caption; caption-side: bottom">Comprobación Científica del Biomagnetismo Médico. Doctores Raimond Hilu e Isaac Goiz Durán.</figcaption>
                 </figure>
               </a>
               <a href="https://www.youtube.com/watch?v=l7k1UpslEs8" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4" style="text-decoration: none; color: white;">
                 <figure style="display: table;">
-                  <img src="http://img.youtube.com/vi/l7k1UpslEs8/mqdefault.jpg" class="img-fluid" style="border-radius:10px;">
+                  <img src="img/hidroterapia.jpg" class="img-fluid" style="border-radius:10px;">
                   <figcaption style="text-align: center; display: table-caption; caption-side: bottom">Hidroterapia con Sal Marina. Doctor Alberto Martin Bosh.</figcaption>
                 </figure>
               </a>
               <a href="https://www.youtube.com/watch?v=k2EWriOcoU8" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4"  style="text-decoration: none; color: white;">
                 <figure style="display: table;">
-                  <img src="http://img.youtube.com/vi/k2EWriOcoU8/mqdefault.jpg" class="img-fluid" style="border-radius:10px;">
+                  <img src="img/dialisis-percutanea.jpg" class="img-fluid" style="border-radius:10px;">
                   <figcaption style="text-align: center; display: table-caption; caption-side: bottom">Progreso de la diálisis percutánea.</figcaption>
                 </figure>
               </a>
@@ -206,19 +226,19 @@
             <div class="row">
               <a href="https://www.youtube.com/watch?v=SS7xgnyr8aY" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4"  style="text-decoration: none; color: white;">
                 <figure style="display: table;">
-                  <img src="http://img.youtube.com/vi/SS7xgnyr8aY/mqdefault.jpg" class="img-fluid" style="border-radius:10px;">
+                  <img src="img/enfermedades.jpg" class="img-fluid" style="border-radius:10px;">
                   <figcaption style="text-align: center; display: table-caption; caption-side: bottom">La causa de todas las enfermedades.</figcaption>
                 </figure>
               </a>
               <a href="https://www.youtube.com/watch?v=Z7quAsYmZSc" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4"  style="text-decoration: none; color: white;">
                 <figure style="display: table;">
-                  <img src="http://img.youtube.com/vi/Z7quAsYmZSc/mqdefault.jpg" class="img-fluid" style="border-radius:10px;">
+                  <img src="img/mataderos.jpg" class="img-fluid" style="border-radius:10px;">
                   <figcaption style="text-align: center; display: table-caption; caption-side: bottom">Si los mataderos tuvieran pareces de cristal, todos seriamos vegetarianos.</figcaption>
                 </figure>
               </a>
               <a href="https://www.google.es/amp/hermandadblanca.org/medicina-mapuche-una-sabiduria-ancestral/amp/" data-toggle="lightbox" data-gallery="" class="col-xs-12 col-sm-6 col-lg-4"  style="text-decoration: none; color: white;">
                 <figure style="display: table;">
-                  <img src="http://www.simpleimageresizer.com/_uploads/photos/1bc3cd64/kultrun_mapuche-LeoPrieto-300x198_320x180.jpg" class="img-fluid" style="border-radius:10px;">
+                  <img src="img/kultrun.jpg" class="img-fluid" style="border-radius:10px;">
                   <figcaption style="text-align: center; display: table-caption; caption-side: bottom">Medicina Mapuche, una sabiduría ancestral.</figcaption>
                 </figure>
               </a>

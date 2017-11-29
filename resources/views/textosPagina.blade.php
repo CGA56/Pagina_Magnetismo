@@ -49,8 +49,13 @@ Así las cosas, un año más tarde, me hice una nueva ecografía y resultó que 
 </p>
 <p>
 Ahhhh, con toda esa pena, estuve toda la semana buscando una excusa para no operarme, pero la verdad, no encontré ninguna y la operación estaba programada para el lunes 29 de Noviembre de 2016, en la tarde. Sin embargo, el día  domingo 28 de Noviembre de 2016, desperté con la sensación de haber tenido un sueño revelación, y con la idea clara de que debía buscar en YOUTUBE: “VIVIR SIN MATRIZ”. Así lo hice y en la primera opción, me apareció un reportaje de la químico mexicana, señora María Engel, Directora General del Centro Engel en México, quien hablaba de la importancia química del útero en el cuerpo femenino, ya que en la matriz  se producen sustancias fundamentales para la salud de una mujer, hasta el último de sus días, pues en el endometrio, paredes del útero, se produce el 50% de las Betaendorfinas, que son las que nos hacen sentir gusto por la vida, y que obviamente, después que le sacan el útero, viene la depresión. Que en el  cuello del utero, se produce el 50% de la humedad vaginal lo que permite prevenir infecciones,  y lubrica en los momentos de placer. Además de que en el cuello del útero se producen las hormonas prostaglandinas, que producen miles de efectos en el cuerpo femenino y que son el principal tónico de los ovarios lo que están conectados con la matriz, por muchas terminales nerviosas, y al quitarte la matriz, se ahorcan los ovarios.
-Si te quitan la matriz, a los seis meses tienes las hormonas de una mujer de 50 años Si te quitan los ovarios y la matriz, a los pocos días tienes las hormonas de una mujer de 70 años. Los miomas son benignos, y según 40 doctoras que han trabajado en Centro Engel, ninguna ha visto jamás un cáncer de mioma, y es más la señora Engel, tiende a pensar que este no existe. Les dejo el link, por si quieren verlo:<link> https://www.youtube.com/watch?v=IxPXOp-xvtI</link>
+Si te quitan la matriz, a los seis meses tienes las hormonas de una mujer de 50 años Si te quitan los ovarios y la matriz, a los pocos días tienes las hormonas de una mujer de 70 años. Los miomas son benignos, y según 40 doctoras que han trabajado en Centro Engel, ninguna ha visto jamás un cáncer de mioma, y es más la señora Engel, tiende a pensar que este no existe. Les dejo el link, por si quieren verlo:
 </p>
+<br>
+<div class="embed-responsive embed-responsive-16by9">
+   <iframe class="embed-responsive-item" width="320" height="180" src="https://www.youtube.com/embed/IxPXOp-xvtI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen style="border-radius: 20px;"></iframe>
+</div>
+<br>
 <p>
 Yo ya me había hecho el examen de Papiloma y no lo tenía, por lo que era altamente improbable que me diera cáncer, bueno, de hecho a la fecha, no tengo cáncer y aún tengo los miomas.
 En fin, luego de escuchar este reportaje, y con la convicción de que esta fue una revelación de Dios, decidí inmediatamente que no me operaría, pues me sentí traicionada por mi médico, ya que  consideré que él debería haberme dado a conocer esta información que claramente era fundamental para poder decidir, sobre el futuro de mi cuerpo, pues  estaba claro que siempre existió un riesgo de que me sacaran el útero, y se me había hecho creer que esto era intrascendente, que no pasaba nada, casi como sacarse una verruga.
@@ -126,5 +131,5 @@ En el mundo somo aproximadamente 7.565.503.275 (SIETE MIL QUINIENTOS SESENTA Y C
 </p>
 <p>
  En la actualidad ya no ejerzo como abogada, sino sólo como Biomagnetista.
-</p>  
+</p>
 @endsection
