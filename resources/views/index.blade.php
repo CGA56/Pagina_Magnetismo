@@ -90,10 +90,10 @@
       </div>
 
 
-      <div class="container" style="padding: 2% ;">
-         <img src="img\logoPresentacion.JPG" class="img-responsive"  width="100%" height="auto"  >
-         <div class="container subheading mb-5">Huérfanos 1117 · Oficina 1018 · Santiago · (+569) 2-26880810 ·(+569) 2-26889957 ·(+569) 9-9181785 ·
-           <a href="mailto:name@email.com">roxanabarre@gmail.cl</a>
+      <div class="container" style="padding: 0% 2%;">
+         <img src="img\logoPresentacion.png" class="img-responsive"  width="100%" height="auto"  style="border-radius:20px;">
+         <div class="container subheading mb-5">
+           <p style="color: #363636">Huérfanos 1117 · Oficina 1018 · Santiago · (+569) 2-26880810 ·(+569) 2-26889957 ·(+569) 9-9181785 ·<a href="mailto:name@email.com">roxanabarre@gmail.cl</a><p>
          </div>
       </div>
 
