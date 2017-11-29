@@ -56,6 +56,9 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
           <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#page-top">Inicio</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#mision">Misión</a>
           </li>
           <li class="nav-item">
@@ -69,9 +72,6 @@
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#perfil">Perfil</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#page-top">Inicio</a>
           </li>
           <!--
           <li class="nav-item">
@@ -92,7 +92,7 @@
 
       <div class="container" style="padding: 2% ;">
          <img src="img\logoPresentacion.JPG" class="img-responsive"  width="100%" height="auto"  >
-         <div class="container subheading mb-5">Huérfanos 1117 · Oficina 1018 · Santiago · (+569) 2-26880810 ·
+         <div class="container subheading mb-5">Huérfanos 1117 · Oficina 1018 · Santiago · (+569) 2-26880810 ·(+569) 2-26889957 ·(+569) 9-9181785 ·
            <a href="mailto:name@email.com">roxanabarre@gmail.cl</a>
          </div>
       </div>
@@ -118,7 +118,7 @@
             <div class="container-fluid " >
                   <div class="bg-success-copia text-white " style="border-radius: 20px;">
                   <div style="margin: 10px;">
-                 <h2 class="centrar-texto"><small>Mision</small></h2>
+                 <h2 class="centrar-texto text-white"><small>Mision</small></h2>
               </div>
             </div>
           </div>
@@ -146,7 +146,7 @@
         <div class="container-fluid " >
               <div class="bg-success-copia text-white " style="border-radius: 20px;">
               <div style="margin: 10px;">
-             <h2 class="centrar-texto"><small>Historia</small></h2>
+             <h2 class="centrar-texto text-white"><small>Historia</small></h2>
           </div>
         </div>
         </div>
@@ -169,7 +169,7 @@
         <div class="container-fluid " >
               <div class="bg-success-copia text-white " style="border-radius: 20px;">
               <div style="margin: 10px;">
-            <h2 class="centrar-texto"><small>Financiamiento</small></h2>
+            <h2 class="centrar-texto text-white"><small>Financiamiento</small></h2>
           </div>
         </div>
         </div>
@@ -192,7 +192,7 @@
         <div class="container-fluid " >
               <div class="bg-success-copia text-white " style="border-radius: 20px;">
               <div style="margin: 10px;">
-            <h2 class="centrar-texto"><small>Links de interés</small></h2>
+            <h2 class="centrar-texto text-white"><small>Links de interés</small></h2>
           </div>
         </div>
         </div>
@@ -256,7 +256,7 @@
               <div class="bg-success-copia text-white " style="border-radius: 20px;">
               <div style="margin: 10px;">
 
-            <h2 class="centrar-texto"><small>Perfil</small></h2>
+            <h2 class="centrar-texto text-white"><small>Perfil</small></h2>
 
           </div>
         </div>

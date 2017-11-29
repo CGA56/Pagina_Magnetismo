@@ -115,21 +115,21 @@ En el mundo somo aproximadamente 7.565.503.275 (SIETE MIL QUINIENTOS SESENTA Y C
 @section('perfil')
   <br>
   <p>
-  Estudié Derecho en la Universidad Bernardo O’Higgins, tras obtener una beca que me otorgó la Fundación Cema Chile. Gracias a esto, pude estudiar toda mi carrera gratis. Egresé en el año 1997, con “Distinción”.
+  · &nbsp Estudié Derecho en la Universidad Bernardo O’Higgins, tras obtener una beca que me otorgó la Fundación Cema Chile. Gracias a esto, pude estudiar toda mi carrera gratis. Egresé en el año 1997, con “Distinción”.
   </p>
   <p>
-  Durante los años 2011-2012, realicé un Master en Derecho de los Negocios en la Universidad Adolfo Ibañez, del cual aprobé y obtuve el respectivo título.
+  · &nbsp Durante los años 2011-2012, realicé un Master en Derecho de los Negocios en la Universidad Adolfo Ibañez, del cual aprobé y obtuve el respectivo título.
  </p>
  <p>
-  En Marzo de 2017, realicé el curso de Biomagnetismo Médico, directamente con el descubridor de la Técnica, Doctor Isaac Goiz Duran.
+  · &nbsp En Marzo de 2017, realicé el curso de Biomagnetismo Médico, directamente con el descubridor de la Técnica, Doctor Isaac Goiz Duran.
  </p>
  <p>
-  En abril de 2017, realicé el curso de Bioenergética Médica, en el centro OHANI, únicos autorizados para impartir estos cursos en Chile.
+  · &nbsp En abril de 2017, realicé el curso de Bioenergética Médica, en el centro OHANI, únicos autorizados para impartir estos cursos en Chile.
  </p>
 <p>
-  En Mayo de 2017, realicé nuevamente el curso de Bioenergética Médica, pero esta vez directamente con el Doctor Isaac Goiz Duran.
+  · &nbsp En Mayo de 2017, realicé nuevamente el curso de Bioenergética Médica, pero esta vez directamente con el Doctor Isaac Goiz Duran.
 </p>
 <p>
- En la actualidad ya no ejerzo como abogada, sino sólo como Biomagnetista.
+ ·&nbsp En la actualidad ya no ejerzo como abogada, sino sólo como Biomagnetista.
 </p>
 @endsection
