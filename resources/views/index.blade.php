@@ -108,37 +108,28 @@
               </div>
         </div>
       </div-->
-
-
-
-      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="mision">
-        <div class="my-auto">
-            <!--ENDREGION presentacion-->
-            <!--Region Mision--->
-            <!--Div flotante-->
-            <div class="container-fluid " >
-                  <div class="bg-success-copia text-white " style="border-radius: 20px;">
-                  <div style="margin: 10px;">
-                 <h2 class="centrar-texto"><small>Mision</small></h2>
-              </div>
-            </div>
-          </div>
-         <!----->
-          <div class="container-fluid ">
-                <div class="bg-success-copia text-white " style="border-radius: 20px;">
-                <div style="margin: 10px;">
-                  <br>
-              <!--h2 class="centrar-texto"><small>Mision</small></h2-->
-              <br>
-               @yield('mision')
-              <br>
-               <a class="nav-link js-scroll-trigger" style="color:white;" href="#perfil">Roxana Barrera Acuña.</a>
-              <br>
-            </div>
-          </div>
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="mision">
+        <!--Div flotante-->
+        <div class="container-fluid " >
+              <div class="bg-success-copia text-white " style="border-radius: 20px;">
+              <div style="margin: 10px;">
+             <h2 class="centrar-texto"><small>Misión</small></h2>
           </div>
         </div>
+        </div>
+        <!---->
+        <div class="container-fluid " >
+              <div class="bg-success-copia text-white " style="border-radius: 20px;">
+              <div style="margin: 10px;">
+                <br>
+             <!---h2 class="centrar-texto"><small>Historia</small></h2-->
+             @yield('mision')
+             <a class="nav-link js-scroll-trigger" style="color:white;" href="#perfil">Roxana Barrera Acuña.</a>
+          </div>
+        </div>
+        </div>
       </section>
+
      <!--ENDREGION Mision-->
 
      <!--Region historia-->
@@ -199,9 +190,9 @@
         </div>
         <!---->
         <div class="container-fluid " >
-              <div class="bg-success-copia text-white " style="border-radius: 20px;">
-              <div style="padding: 2%;">
-
+                <div class="bg-success-copia text-white " style="border-radius: 20px;">
+                <div style="margin: 10px;">
+                <br>
             <!--h2 class="centrar-texto"><small>Links de interes</small></h2-->
             <div class="row">
               <a href="https://www.youtube.com/watch?v=R6V9-fE3hQU" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4" style="text-decoration: none; color: white;">

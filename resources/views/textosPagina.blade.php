@@ -33,7 +33,6 @@
 @endsection
 
 @section('historia')
-<br>
 <p>
  A mediados del mes de agosto del año 2015, tuve un resfrío tipo bronquitis muy  fuerte, hace años que no me daba tan fuerte, y a veces parecía que este estaba desapareciendo, pero al día siguiente amanecía nuevamente tosiendo y votado flema verde. Entonces pensé que los productos de origen animal eran los que me podrían estar afectando, ya que como mi inmunidad se encontraba debilitada por el resfriado, quizás los antibióticos presentes en  estos alimentos, (hay estudios en Europa que así lo demuestran), me estaban produciendo una especie de alergia, que reavivaba el resfrío, como si nunca se hubiera ido. Por lo mismo, comencé a cambiar mi dieta y comer cada vez mas vegetariano, y llegar al veganismo, que practico actualmente.
 </p>
@@ -93,7 +92,6 @@ Comprendí que mi miedo era injustificado, estaba segura de que Dios bendiciría
 @endsection
 
 @section('financiamiento')
-  <br>
   <p>
   Todo el tiempo escuchamos expresiones tales como: “La   salud es impagable”, “La salud no tiene precio”, con las cuales concordamos.
   Nos encantaría que pudiéramos ofrecer esta terapia, todo el tiempo en forma gratuita, pero todos tenemos necesidades que hay que cubrir, infraestructura, personal, insumos, solventar a nuestras familias, lo  que nos obligan a ponerle un precio a nuestros servicios, para permitir que este proyecto se financie y crezca, ya que al igual que todo el mundo, estamos enfrentados al gran problema económico, en que las necesidades son infinitas y los recursos siempre son limitados.
@@ -113,7 +111,6 @@ En el mundo somo aproximadamente 7.565.503.275 (SIETE MIL QUINIENTOS SESENTA Y C
 @endsection
 
 @section('perfil')
-  <br>
   <p>
   · &nbsp Estudié Derecho en la Universidad Bernardo O’Higgins, tras obtener una beca que me otorgó la Fundación Cema Chile. Gracias a esto, pude estudiar toda mi carrera gratis. Egresé en el año 1997, con “Distinción”.
   </p>
