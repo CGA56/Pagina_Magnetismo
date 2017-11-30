@@ -124,7 +124,6 @@
                 <br>
              <!---h2 class="centrar-texto"><small>Historia</small></h2-->
              @yield('mision')
-             <a class="nav-link js-scroll-trigger" style="color:white;" href="#perfil">Roxana Barrera Acuña.</a>
           </div>
         </div>
         </div>
@@ -195,6 +194,14 @@
                 <br>
             <!--h2 class="centrar-texto"><small>Links de interes</small></h2-->
             <div class="row">
+
+              <a href="https://www.youtube.com/watch?v=NyxOg7KpnLU&feature=youtu.be" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4"  style="text-decoration: none; color: white;">
+                <figure style="display: table;">
+                  <img src="img/biomagnetismoMedico.JPG" class="img-fluid" style="border-radius:10px;">
+                  <figcaption style="text-align: center; display: table-caption; caption-side: bottom">¿ Que es el biomagnetismo medico ?.</figcaption>
+                </figure>
+              </a>
+
               <a href="https://www.youtube.com/watch?v=R6V9-fE3hQU" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4" style="text-decoration: none; color: white;">
                 <figure style="display: table;">
                   <img src="img/comprobacion-cientifica.jpg" class="img-fluid" style="border-radius:10px;">
@@ -207,15 +214,15 @@
                   <figcaption style="text-align: center; display: table-caption; caption-side: bottom">Hidroterapia con Sal Marina. Doctor Alberto Martin Bosh.</figcaption>
                 </figure>
               </a>
+            </div>
+            <br>
+            <div class="row">
               <a href="https://www.youtube.com/watch?v=k2EWriOcoU8" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4"  style="text-decoration: none; color: white;">
                 <figure style="display: table;">
                   <img src="img/dialisis-percutanea.jpg" class="img-fluid" style="border-radius:10px;">
                   <figcaption style="text-align: center; display: table-caption; caption-side: bottom">Progreso de la diálisis percutánea.</figcaption>
                 </figure>
               </a>
-            </div>
-            <br>
-            <div class="row">
               <a href="https://www.youtube.com/watch?v=SS7xgnyr8aY" data-toggle="lightbox" data-gallery="youtubevideos" class="col-xs-12 col-sm-6 col-lg-4"  style="text-decoration: none; color: white;">
                 <figure style="display: table;">
                   <img src="img/enfermedades.jpg" class="img-fluid" style="border-radius:10px;">
